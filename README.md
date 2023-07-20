@@ -57,4 +57,4 @@ This project is licensed under the MIT License. See LICENSE.txt for details.
 
 ## Acknowledgments
 
-Thank you to Dr. William Richardson, University of Arkansas for their contributions and support.
+Thanks, Dr.William Richardson, University of Arkansas for his contributions and support.
